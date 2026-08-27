@@ -212,7 +212,7 @@
 </g>
 
 <rect x="0" y="-70" width="1180" height="70" fill="url(#scanGrad)" opacity="0.8" style="mix-blend-mode:multiply">
-  <animateTransform attributeName="transform" type="translate" from="0 -70" to="0 680" dur="4.2s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" from="0 -70" to="0 680" dur="4.2s" begin="2.2s" repeatCount="indefinite"/>
 </rect>
 
 <rect x="3" y="3" width="1174" height="604" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="2" opacity="0.75">
